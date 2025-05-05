@@ -16,9 +16,9 @@
     "buttonTitle": "Track Coins",
     "ogImageUrl": "https://cointent-xi.vercel.app/og-image.png",
     "ogTitle": "Cointent Tracker",
-    "ogDescription": "Track and trade Zora creator coins. Get notified instantly when your favorite creators post new coins.",
-    "tagline": "Real-time Zora coin tracking for creators.",
+    "ogDescription": "Track and trade Zora creator coins.",
+    "tagline": "Real-time Zora coin tracking.",
     "primaryCategory": "finance",
-    "tags": ["zora", "base", "farcaster", "crypto", "token", "notifications"]
+    "tags": ["zora", "base", "farcaster", "crypto", "token"]
   }
 }
