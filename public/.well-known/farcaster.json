@@ -3,8 +3,7 @@
     "header": "eyJmaWQiOjUzNTM4OSwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDFENTlFOTJlQjM2MmY2NDRBY2VlNjE1RTRiZGRhZjkzMzVDRUM3QTAifQ",
     "payload": "eyJkb21haW4iOiJjb2ludGVudC14aS52ZXJjZWwuYXBwIn0",
     "signature": "MHgwYmFmNmZmMzlkNGE1ZmVmMDE1NDViNGM5ZGIyM2ZmNGRkYmQwYzJiNDdhOWIzNGQ4NDI2ZmY1YThlNjk3MDhhMDMwMGIzNWY5ZjlhZTYyOWYwZDM1ZDBiNDk0OTU3OWQ4ODEzZTI1OGRkOGEzOTNhM2U2MDVmZjYyZmRkMjAwYTFi"
-  }
-}
+  },
   "frame": {
     "version": "1",
     "name": "Cointent Tracker",
