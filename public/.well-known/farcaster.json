@@ -5,7 +5,7 @@
     "signature": "MHgwYmFmNmZmMzlkNGE1ZmVmMDE1NDViNGM5ZGIyM2ZmNGRkYmQwYzJiNDdhOWIzNGQ4NDI2ZmY1YThlNjk3MDhhMDMwMGIzNWY5ZjlhZTYyOWYwZDM1ZDBiNDk0OTU3OWQ4ODEzZTI1OGRkOGEzOTNhM2U2MDVmZjYyZmRkMjAwYTFi"
   },
   "frame": {
-    "version": "1.0.0",
+    "version": "1",
     "name": "Cointent Tracker",
     "homeUrl": "https://cointent-xi.vercel.app",
     "iconUrl": "https://cointent-xi.vercel.app/icon.png",
