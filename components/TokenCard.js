@@ -1,12 +1,4 @@
-interface TokenCardProps {
-  name: string;
-  symbol: string;
-  onBuy: () => void;
-  onSell: () => void;
-  onWatch: () => void;
-}
-
-export function TokenCard({ name, symbol, onBuy, onSell, onWatch }: TokenCardProps) {
+export function TokenCard({ name, symbol, onBuy, onSell, onWatch }) {
   return (
     <div className="border p-4 rounded-xl shadow-md space-y-2">
       <div className="font-semibold">{name} ({symbol})</div>
