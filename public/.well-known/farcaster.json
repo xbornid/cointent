@@ -5,14 +5,20 @@
     "signature": "MHgwYmFmNmZmMzlkNGE1ZmVmMDE1NDViNGM5ZGIyM2ZmNGRkYmQwYzJiNDdhOWIzNGQ4NDI2ZmY1YThlNjk3MDhhMDMwMGIzNWY5ZjlhZTYyOWYwZDM1ZDBiNDk0OTU3OWQ4ODEzZTI1OGRkOGEzOTNhM2U2MDVmZjYyZmRkMjAwYTFi"
   },
   "frame": {
-    "version": "1",
+    "version": "1.0",
     "name": "Cointent Tracker",
-    "iconUrl": "https://cointent-xi.vercel.app/icon.png",
     "homeUrl": "https://cointent-xi.vercel.app",
+    "iconUrl": "https://cointent-xi.vercel.app/icon.png",
     "imageUrl": "https://cointent-xi.vercel.app/image.png",
-    "buttonTitle": "Check this out",
     "splashImageUrl": "https://cointent-xi.vercel.app/splash.png",
     "splashBackgroundColor": "#eeccff",
-    "webhookUrl": "https://cointent-xi.vercel.app/api/webhook"
+    "webhookUrl": "https://cointent-xi.vercel.app/api/webhook",
+    "buttonTitle": "Track Coins",
+    "ogImageUrl": "https://cointent-xi.vercel.app/og-image.png",
+    "ogTitle": "Cointent Tracker",
+    "ogDescription": "Track and trade Zora creator coins. Get notified instantly when your favorite creators post new coins.",
+    "tagline": "Real-time Zora coin tracking for creators.",
+    "primaryCategory": "finance",
+    "tags": ["zora", "base", "farcaster", "crypto", "token", "notifications"]
   }
 }
